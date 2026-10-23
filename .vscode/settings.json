@@ -3,6 +3,7 @@
   "C_Cpp.default.intelliSenseMode": "${defaultIntelliSenseMode}",
   "C_Cpp.clang_format_language": "English",
   "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
   "editor.tabSize": 2,
   "files.associations": {
     "*.h": "c",
